@@ -22,4 +22,6 @@ git merge: se usa para fusionar una rama con otra rama activa de esta manera git
 
 git remote -v: muestra si el repositorio está conectado a algun remoto
 
-git init: crea un nuevo repositorio local git
+git init: crea un nuevo repositorio local
+
+thanks
